@@ -1,0 +1,1782 @@
+[
+ {
+   "Key": "V10G8410",
+   "VDI": "10",
+   "Grd": "8410",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V11G8410",
+   "VDI": "11",
+   "Grd": "8410",
+   "VcStart": 108,
+   "VcLow": 95,
+   "VcHigh": 120,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8410",
+   "VDI": "15",
+   "Grd": "8410",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8410",
+   "VDI": "15",
+   "Grd": "8410",
+   "VcStart": 225,
+   "VcLow": 200,
+   "VcHigh": 250,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8410",
+   "VDI": "16",
+   "Grd": "8410",
+   "VcStart": 130,
+   "VcLow": 115,
+   "VcHigh": 145,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8410",
+   "VDI": "16",
+   "Grd": "8410",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V17G8410",
+   "VDI": "17",
+   "Grd": "8410",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V18G8410",
+   "VDI": "18",
+   "Grd": "8410",
+   "VcStart": 135,
+   "VcLow": 120,
+   "VcHigh": 150,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V19G8410",
+   "VDI": "19",
+   "Grd": "8410",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V20G8410",
+   "VDI": "20",
+   "Grd": "8410",
+   "VcStart": 123,
+   "VcLow": 110,
+   "VcHigh": 135,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V38G8410",
+   "VDI": "38",
+   "Grd": "8410",
+   "VcStart": 90,
+   "VcLow": 75,
+   "VcHigh": 105,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V39G8410",
+   "VDI": "39",
+   "Grd": "8410",
+   "VcStart": 78,
+   "VcLow": 65,
+   "VcHigh": 90,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V40G8410",
+   "VDI": "40",
+   "Grd": "8410",
+   "VcStart": 185,
+   "VcLow": 190,
+   "VcHigh": 180,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V41G8410",
+   "VDI": "41",
+   "Grd": "8410",
+   "VcStart": 153,
+   "VcLow": 155,
+   "VcHigh": 150,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V1G8420",
+   "VDI": "1",
+   "Grd": "8420",
+   "VcStart": 318,
+   "VcLow": 280,
+   "VcHigh": 355,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V2G8420",
+   "VDI": "2",
+   "Grd": "8420",
+   "VcStart": 260,
+   "VcLow": 230,
+   "VcHigh": 290,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V3G8420",
+   "VDI": "3",
+   "Grd": "8420",
+   "VcStart": 230,
+   "VcLow": 205,
+   "VcHigh": 255,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V4G8420",
+   "VDI": "4",
+   "Grd": "8420",
+   "VcStart": 243,
+   "VcLow": 215,
+   "VcHigh": 270,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V5G8420",
+   "VDI": "5",
+   "Grd": "8420",
+   "VcStart": 178,
+   "VcLow": 155,
+   "VcHigh": 200,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V6G8420",
+   "VDI": "6",
+   "Grd": "8420",
+   "VcStart": 203,
+   "VcLow": 180,
+   "VcHigh": 225,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V7G8420",
+   "VDI": "7",
+   "Grd": "8420",
+   "VcStart": 160,
+   "VcLow": 140,
+   "VcHigh": 180,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V8G8420",
+   "VDI": "8",
+   "Grd": "8420",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V9G8420",
+   "VDI": "9",
+   "Grd": "8420",
+   "VcStart": 130,
+   "VcLow": 115,
+   "VcHigh": 145,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V10G8420",
+   "VDI": "10",
+   "Grd": "8420",
+   "VcStart": 145,
+   "VcLow": 130,
+   "VcHigh": 160,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V11G8420",
+   "VDI": "11",
+   "Grd": "8420",
+   "VcStart": 103,
+   "VcLow": 90,
+   "VcHigh": 115,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8420",
+   "VDI": "12",
+   "Grd": "8420",
+   "VcStart": 168,
+   "VcLow": 145,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8420",
+   "VDI": "12",
+   "Grd": "8420",
+   "VcStart": 220,
+   "VcLow": 190,
+   "VcHigh": 250,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8420",
+   "VDI": "13",
+   "Grd": "8420",
+   "VcStart": 163,
+   "VcLow": 140,
+   "VcHigh": 185,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8420",
+   "VDI": "13",
+   "Grd": "8420",
+   "VcStart": 213,
+   "VcLow": 185,
+   "VcHigh": 240,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8420",
+   "VDI": "15",
+   "Grd": "8420",
+   "VcStart": 198,
+   "VcLow": 175,
+   "VcHigh": 220,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8420",
+   "VDI": "15",
+   "Grd": "8420",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8420",
+   "VDI": "16",
+   "Grd": "8420",
+   "VcStart": 113,
+   "VcLow": 100,
+   "VcHigh": 125,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8420",
+   "VDI": "16",
+   "Grd": "8420",
+   "VcStart": 153,
+   "VcLow": 135,
+   "VcHigh": 170,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V17G8420",
+   "VDI": "17",
+   "Grd": "8420",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V18G8420",
+   "VDI": "18",
+   "Grd": "8420",
+   "VcStart": 120,
+   "VcLow": 105,
+   "VcHigh": 135,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V19G8420",
+   "VDI": "19",
+   "Grd": "8420",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V20G8420",
+   "VDI": "20",
+   "Grd": "8420",
+   "VcStart": 123,
+   "VcLow": 110,
+   "VcHigh": 135,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V21G8420",
+   "VDI": "21",
+   "Grd": "8420",
+   "VcStart": 650,
+   "VcLow": 590,
+   "VcHigh": 710,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V22G8420",
+   "VDI": "22",
+   "Grd": "8420",
+   "VcStart": 610,
+   "VcLow": 555,
+   "VcHigh": 665,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V23G8420",
+   "VDI": "23",
+   "Grd": "8420",
+   "VcStart": 678,
+   "VcLow": 615,
+   "VcHigh": 740,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V24G8420",
+   "VDI": "24",
+   "Grd": "8420",
+   "VcStart": 660,
+   "VcLow": 600,
+   "VcHigh": 720,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V25G8420",
+   "VDI": "25",
+   "Grd": "8420",
+   "VcStart": 213,
+   "VcLow": 195,
+   "VcHigh": 230,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V26G8420",
+   "VDI": "26",
+   "Grd": "8420",
+   "VcStart": 240,
+   "VcLow": 220,
+   "VcHigh": 260,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V27G8420",
+   "VDI": "27",
+   "Grd": "8420",
+   "VcStart": 353,
+   "VcLow": 320,
+   "VcHigh": 385,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V28G8420",
+   "VDI": "28",
+   "Grd": "8420",
+   "VcStart": 368,
+   "VcLow": 335,
+   "VcHigh": 400,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V31G8420",
+   "VDI": "31",
+   "Grd": "8420",
+   "VcStart": 45,
+   "VcLow": 40,
+   "VcHigh": 50,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V32G8420",
+   "VDI": "32",
+   "Grd": "8420",
+   "VcStart": 33,
+   "VcLow": 30,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V33G8420",
+   "VDI": "33",
+   "Grd": "8420",
+   "VcStart": 40,
+   "VcLow": 35,
+   "VcHigh": 45,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V34G8420",
+   "VDI": "34",
+   "Grd": "8420",
+   "VcStart": 28,
+   "VcLow": 25,
+   "VcHigh": 30,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V35G8420",
+   "VDI": "35",
+   "Grd": "8420",
+   "VcStart": 33,
+   "VcLow": 30,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V36G8420",
+   "VDI": "36",
+   "Grd": "8420",
+   "VcStart": 90,
+   "VcLow": 80,
+   "VcHigh": 100,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V37G8420",
+   "VDI": "37",
+   "Grd": "8420",
+   "VcStart": 33,
+   "VcLow": 30,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V38G8420",
+   "VDI": "38",
+   "Grd": "8420",
+   "VcStart": 43,
+   "VcLow": 35,
+   "VcHigh": 50,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V39G8420",
+   "VDI": "39",
+   "Grd": "8420",
+   "VcStart": 35,
+   "VcLow": 30,
+   "VcHigh": 40,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V40G8420",
+   "VDI": "40",
+   "Grd": "8420",
+   "VcStart": 85,
+   "VcLow": 85,
+   "VcHigh": 85,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V41G8420",
+   "VDI": "41",
+   "Grd": "8420",
+   "VcStart": 70,
+   "VcLow": 70,
+   "VcHigh": 70,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8420",
+   "VDI": "14*",
+   "Grd": "8420",
+   "VcStart": 163,
+   "VcLow": 140,
+   "VcHigh": 185,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8420",
+   "VDI": "14*",
+   "Grd": "8420",
+   "VcStart": 215,
+   "VcLow": 185,
+   "VcHigh": 245,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V1G8430",
+   "VDI": "1",
+   "Grd": "8430",
+   "VcStart": 273,
+   "VcLow": 240,
+   "VcHigh": 305,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V2G8430",
+   "VDI": "2",
+   "Grd": "8430",
+   "VcStart": 225,
+   "VcLow": 200,
+   "VcHigh": 250,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V3G8430",
+   "VDI": "3",
+   "Grd": "8430",
+   "VcStart": 198,
+   "VcLow": 175,
+   "VcHigh": 220,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V4G8430",
+   "VDI": "4",
+   "Grd": "8430",
+   "VcStart": 210,
+   "VcLow": 185,
+   "VcHigh": 235,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V5G8430",
+   "VDI": "5",
+   "Grd": "8430",
+   "VcStart": 153,
+   "VcLow": 135,
+   "VcHigh": 170,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V6G8430",
+   "VDI": "6",
+   "Grd": "8430",
+   "VcStart": 175,
+   "VcLow": 155,
+   "VcHigh": 195,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V7G8430",
+   "VDI": "7",
+   "Grd": "8430",
+   "VcStart": 138,
+   "VcLow": 120,
+   "VcHigh": 155,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V8G8430",
+   "VDI": "8",
+   "Grd": "8430",
+   "VcStart": 130,
+   "VcLow": 115,
+   "VcHigh": 145,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V9G8430",
+   "VDI": "9",
+   "Grd": "8430",
+   "VcStart": 113,
+   "VcLow": 100,
+   "VcHigh": 125,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V10G8430",
+   "VDI": "10",
+   "Grd": "8430",
+   "VcStart": 138,
+   "VcLow": 120,
+   "VcHigh": 155,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V11G8430",
+   "VDI": "11",
+   "Grd": "8430",
+   "VcStart": 98,
+   "VcLow": 85,
+   "VcHigh": 110,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8430",
+   "VDI": "12",
+   "Grd": "8430",
+   "VcStart": 158,
+   "VcLow": 135,
+   "VcHigh": 180,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8430",
+   "VDI": "12",
+   "Grd": "8430",
+   "VcStart": 208,
+   "VcLow": 180,
+   "VcHigh": 235,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8430",
+   "VDI": "13",
+   "Grd": "8430",
+   "VcStart": 155,
+   "VcLow": 135,
+   "VcHigh": 175,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8430",
+   "VDI": "13",
+   "Grd": "8430",
+   "VcStart": 203,
+   "VcLow": 175,
+   "VcHigh": 230,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V31G8430",
+   "VDI": "31",
+   "Grd": "8430",
+   "VcStart": 40,
+   "VcLow": 35,
+   "VcHigh": 45,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V32G8430",
+   "VDI": "32",
+   "Grd": "8430",
+   "VcStart": 30,
+   "VcLow": 25,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V33G8430",
+   "VDI": "33",
+   "Grd": "8430",
+   "VcStart": 40,
+   "VcLow": 35,
+   "VcHigh": 45,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V34G8430",
+   "VDI": "34",
+   "Grd": "8430",
+   "VcStart": 23,
+   "VcLow": 20,
+   "VcHigh": 25,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V35G8430",
+   "VDI": "35",
+   "Grd": "8430",
+   "VcStart": 30,
+   "VcLow": 25,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V36G8430",
+   "VDI": "36",
+   "Grd": "8430",
+   "VcStart": 80,
+   "VcLow": 70,
+   "VcHigh": 90,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V37G8430",
+   "VDI": "37",
+   "Grd": "8430",
+   "VcStart": 30,
+   "VcLow": 25,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8430",
+   "VDI": "14*",
+   "Grd": "8430",
+   "VcStart": 155,
+   "VcLow": 135,
+   "VcHigh": 175,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8430",
+   "VDI": "14*",
+   "Grd": "8430",
+   "VcStart": 203,
+   "VcLow": 175,
+   "VcHigh": 230,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V10G8510",
+   "VDI": "10",
+   "Grd": "8510",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V11G8510",
+   "VDI": "11",
+   "Grd": "8510",
+   "VcStart": 108,
+   "VcLow": 95,
+   "VcHigh": 120,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8510",
+   "VDI": "15",
+   "Grd": "8510",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8510",
+   "VDI": "15",
+   "Grd": "8510",
+   "VcStart": 225,
+   "VcLow": 200,
+   "VcHigh": 250,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8510",
+   "VDI": "16",
+   "Grd": "8510",
+   "VcStart": 130,
+   "VcLow": 115,
+   "VcHigh": 145,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8510",
+   "VDI": "16",
+   "Grd": "8510",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V17G8510",
+   "VDI": "17",
+   "Grd": "8510",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V18G8510",
+   "VDI": "18",
+   "Grd": "8510",
+   "VcStart": 135,
+   "VcLow": 120,
+   "VcHigh": 150,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V19G8510",
+   "VDI": "19",
+   "Grd": "8510",
+   "VcStart": 170,
+   "VcLow": 150,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V20G8510",
+   "VDI": "20",
+   "Grd": "8510",
+   "VcStart": 123,
+   "VcLow": 110,
+   "VcHigh": 135,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V38G8510",
+   "VDI": "38",
+   "Grd": "8510",
+   "VcStart": 90,
+   "VcLow": 75,
+   "VcHigh": 105,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V39G8510",
+   "VDI": "39",
+   "Grd": "8510",
+   "VcStart": 78,
+   "VcLow": 65,
+   "VcHigh": 90,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V40G8510",
+   "VDI": "40",
+   "Grd": "8510",
+   "VcStart": 160,
+   "VcLow": 190,
+   "VcHigh": 130,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V41G8510",
+   "VDI": "41",
+   "Grd": "8510",
+   "VcStart": 133,
+   "VcLow": 155,
+   "VcHigh": 110,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V1G8520",
+   "VDI": "1",
+   "Grd": "8520",
+   "VcStart": 318,
+   "VcLow": 280,
+   "VcHigh": 355,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V2G8520",
+   "VDI": "2",
+   "Grd": "8520",
+   "VcStart": 260,
+   "VcLow": 230,
+   "VcHigh": 290,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V3G8520",
+   "VDI": "3",
+   "Grd": "8520",
+   "VcStart": 230,
+   "VcLow": 205,
+   "VcHigh": 255,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V4G8520",
+   "VDI": "4",
+   "Grd": "8520",
+   "VcStart": 243,
+   "VcLow": 215,
+   "VcHigh": 270,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V5G8520",
+   "VDI": "5",
+   "Grd": "8520",
+   "VcStart": 178,
+   "VcLow": 155,
+   "VcHigh": 200,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V6G8520",
+   "VDI": "6",
+   "Grd": "8520",
+   "VcStart": 203,
+   "VcLow": 180,
+   "VcHigh": 225,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V7G8520",
+   "VDI": "7",
+   "Grd": "8520",
+   "VcStart": 160,
+   "VcLow": 140,
+   "VcHigh": 180,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V8G8520",
+   "VDI": "8",
+   "Grd": "8520",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V9G8520",
+   "VDI": "9",
+   "Grd": "8520",
+   "VcStart": 130,
+   "VcLow": 115,
+   "VcHigh": 145,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V10G8520",
+   "VDI": "10",
+   "Grd": "8520",
+   "VcStart": 145,
+   "VcLow": 130,
+   "VcHigh": 160,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V11G8520",
+   "VDI": "11",
+   "Grd": "8520",
+   "VcStart": 103,
+   "VcLow": 90,
+   "VcHigh": 115,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8520",
+   "VDI": "12",
+   "Grd": "8520",
+   "VcStart": 220,
+   "VcLow": 190,
+   "VcHigh": 250,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8520",
+   "VDI": "12",
+   "Grd": "8520",
+   "VcStart": 168,
+   "VcLow": 145,
+   "VcHigh": 190,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8520",
+   "VDI": "13",
+   "Grd": "8520",
+   "VcStart": 163,
+   "VcLow": 140,
+   "VcHigh": 185,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8520",
+   "VDI": "13",
+   "Grd": "8520",
+   "VcStart": 213,
+   "VcLow": 185,
+   "VcHigh": 240,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8520",
+   "VDI": "15",
+   "Grd": "8520",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V15G8520",
+   "VDI": "15",
+   "Grd": "8520",
+   "VcStart": 198,
+   "VcLow": 175,
+   "VcHigh": 220,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8520",
+   "VDI": "16",
+   "Grd": "8520",
+   "VcStart": 153,
+   "VcLow": 135,
+   "VcHigh": 170,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V16G8520",
+   "VDI": "16",
+   "Grd": "8520",
+   "VcStart": 113,
+   "VcLow": 100,
+   "VcHigh": 125,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V17G8520",
+   "VDI": "17",
+   "Grd": "8520",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V18G8520",
+   "VDI": "18",
+   "Grd": "8520",
+   "VcStart": 120,
+   "VcLow": 105,
+   "VcHigh": 135,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V19G8520",
+   "VDI": "19",
+   "Grd": "8520",
+   "VcStart": 148,
+   "VcLow": 130,
+   "VcHigh": 165,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V20G8520",
+   "VDI": "20",
+   "Grd": "8520",
+   "VcStart": 123,
+   "VcLow": 110,
+   "VcHigh": 135,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V21G8520",
+   "VDI": "21",
+   "Grd": "8520",
+   "VcStart": 650,
+   "VcLow": 590,
+   "VcHigh": 710,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V22G8520",
+   "VDI": "22",
+   "Grd": "8520",
+   "VcStart": 610,
+   "VcLow": 555,
+   "VcHigh": 665,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V23G8520",
+   "VDI": "23",
+   "Grd": "8520",
+   "VcStart": 678,
+   "VcLow": 615,
+   "VcHigh": 740,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V24G8520",
+   "VDI": "24",
+   "Grd": "8520",
+   "VcStart": 660,
+   "VcLow": 600,
+   "VcHigh": 720,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V25G8520",
+   "VDI": "25",
+   "Grd": "8520",
+   "VcStart": 213,
+   "VcLow": 195,
+   "VcHigh": 230,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V26G8520",
+   "VDI": "26",
+   "Grd": "8520",
+   "VcStart": 240,
+   "VcLow": 220,
+   "VcHigh": 260,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V27G8520",
+   "VDI": "27",
+   "Grd": "8520",
+   "VcStart": 353,
+   "VcLow": 320,
+   "VcHigh": 385,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V28G8520",
+   "VDI": "28",
+   "Grd": "8520",
+   "VcStart": 368,
+   "VcLow": 335,
+   "VcHigh": 400,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V31G8520",
+   "VDI": "31",
+   "Grd": "8520",
+   "VcStart": 45,
+   "VcLow": 40,
+   "VcHigh": 50,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V32G8520",
+   "VDI": "32",
+   "Grd": "8520",
+   "VcStart": 33,
+   "VcLow": 30,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V33G8520",
+   "VDI": "33",
+   "Grd": "8520",
+   "VcStart": 40,
+   "VcLow": 35,
+   "VcHigh": 45,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V34G8520",
+   "VDI": "34",
+   "Grd": "8520",
+   "VcStart": 28,
+   "VcLow": 25,
+   "VcHigh": 30,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V35G8520",
+   "VDI": "35",
+   "Grd": "8520",
+   "VcStart": 33,
+   "VcLow": 30,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V36G8520",
+   "VDI": "36",
+   "Grd": "8520",
+   "VcStart": 90,
+   "VcLow": 80,
+   "VcHigh": 100,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V37G8520",
+   "VDI": "37",
+   "Grd": "8520",
+   "VcStart": 33,
+   "VcLow": 30,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V38G8520",
+   "VDI": "38",
+   "Grd": "8520",
+   "VcStart": 43,
+   "VcLow": 35,
+   "VcHigh": 50,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V39G8520",
+   "VDI": "39",
+   "Grd": "8520",
+   "VcStart": 35,
+   "VcLow": 30,
+   "VcHigh": 40,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V40G8520",
+   "VDI": "40",
+   "Grd": "8520",
+   "VcStart": 73,
+   "VcLow": 85,
+   "VcHigh": 60,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V41G8520",
+   "VDI": "41",
+   "Grd": "8520",
+   "VcStart": 60,
+   "VcLow": 70,
+   "VcHigh": 50,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8520",
+   "VDI": "14*",
+   "Grd": "8520",
+   "VcStart": 163,
+   "VcLow": 140,
+   "VcHigh": 185,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8520",
+   "VDI": "14*",
+   "Grd": "8520",
+   "VcStart": 215,
+   "VcLow": 185,
+   "VcHigh": 245,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V1G8530",
+   "VDI": "1",
+   "Grd": "8530",
+   "VcStart": 273,
+   "VcLow": 240,
+   "VcHigh": 305,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V2G8530",
+   "VDI": "2",
+   "Grd": "8530",
+   "VcStart": 225,
+   "VcLow": 200,
+   "VcHigh": 250,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V3G8530",
+   "VDI": "3",
+   "Grd": "8530",
+   "VcStart": 198,
+   "VcLow": 175,
+   "VcHigh": 220,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V4G8530",
+   "VDI": "4",
+   "Grd": "8530",
+   "VcStart": 210,
+   "VcLow": 185,
+   "VcHigh": 235,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V5G8530",
+   "VDI": "5",
+   "Grd": "8530",
+   "VcStart": 153,
+   "VcLow": 135,
+   "VcHigh": 170,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V6G8530",
+   "VDI": "6",
+   "Grd": "8530",
+   "VcStart": 175,
+   "VcLow": 155,
+   "VcHigh": 195,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V7G8530",
+   "VDI": "7",
+   "Grd": "8530",
+   "VcStart": 138,
+   "VcLow": 120,
+   "VcHigh": 155,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V8G8530",
+   "VDI": "8",
+   "Grd": "8530",
+   "VcStart": 130,
+   "VcLow": 115,
+   "VcHigh": 145,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V9G8530",
+   "VDI": "9",
+   "Grd": "8530",
+   "VcStart": 113,
+   "VcLow": 100,
+   "VcHigh": 125,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V10G8530",
+   "VDI": "10",
+   "Grd": "8530",
+   "VcStart": 138,
+   "VcLow": 120,
+   "VcHigh": 155,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V11G8530",
+   "VDI": "11",
+   "Grd": "8530",
+   "VcStart": 98,
+   "VcLow": 85,
+   "VcHigh": 110,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8530",
+   "VDI": "12",
+   "Grd": "8530",
+   "VcStart": 208,
+   "VcLow": 180,
+   "VcHigh": 235,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8530",
+   "VDI": "12",
+   "Grd": "8530",
+   "VcStart": 158,
+   "VcLow": 135,
+   "VcHigh": 180,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8530",
+   "VDI": "13",
+   "Grd": "8530",
+   "VcStart": 155,
+   "VcLow": 135,
+   "VcHigh": 175,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8530",
+   "VDI": "13",
+   "Grd": "8530",
+   "VcStart": 203,
+   "VcLow": 175,
+   "VcHigh": 230,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V31G8530",
+   "VDI": "31",
+   "Grd": "8530",
+   "VcStart": 40,
+   "VcLow": 35,
+   "VcHigh": 45,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V32G8530",
+   "VDI": "32",
+   "Grd": "8530",
+   "VcStart": 30,
+   "VcLow": 25,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V33G8530",
+   "VDI": "33",
+   "Grd": "8530",
+   "VcStart": 40,
+   "VcLow": 35,
+   "VcHigh": 45,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V34G8530",
+   "VDI": "34",
+   "Grd": "8530",
+   "VcStart": 23,
+   "VcLow": 20,
+   "VcHigh": 25,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V35G8530",
+   "VDI": "35",
+   "Grd": "8530",
+   "VcStart": 30,
+   "VcLow": 25,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V36G8530",
+   "VDI": "36",
+   "Grd": "8530",
+   "VcStart": 80,
+   "VcLow": 70,
+   "VcHigh": 90,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V37G8530",
+   "VDI": "37",
+   "Grd": "8530",
+   "VcStart": 30,
+   "VcLow": 25,
+   "VcHigh": 35,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8530",
+   "VDI": "14*",
+   "Grd": "8530",
+   "VcStart": 155,
+   "VcLow": 135,
+   "VcHigh": 175,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8530",
+   "VDI": "14*",
+   "Grd": "8530",
+   "VcStart": 203,
+   "VcLow": 175,
+   "VcHigh": 230,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V6G8540",
+   "VDI": "6",
+   "Grd": "8540",
+   "VcStart": 138,
+   "VcLow": 115,
+   "VcHigh": 160,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8540",
+   "VDI": "12",
+   "Grd": "8540",
+   "VcStart": 120,
+   "VcLow": 100,
+   "VcHigh": 140,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V12G8540",
+   "VDI": "12",
+   "Grd": "8540",
+   "VcStart": 158,
+   "VcLow": 130,
+   "VcHigh": 185,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8540",
+   "VDI": "13",
+   "Grd": "8540",
+   "VcStart": 118,
+   "VcLow": 95,
+   "VcHigh": 140,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V13G8540",
+   "VDI": "13",
+   "Grd": "8540",
+   "VcStart": 158,
+   "VcLow": 130,
+   "VcHigh": 185,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V31G8540",
+   "VDI": "31",
+   "Grd": "8540",
+   "VcStart": 38,
+   "VcLow": 35,
+   "VcHigh": 40,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V32G8540",
+   "VDI": "32",
+   "Grd": "8540",
+   "VcStart": 28,
+   "VcLow": 25,
+   "VcHigh": 30,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V33G8540",
+   "VDI": "33",
+   "Grd": "8540",
+   "VcStart": 38,
+   "VcLow": 35,
+   "VcHigh": 40,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V34G8540",
+   "VDI": "34",
+   "Grd": "8540",
+   "VcStart": 23,
+   "VcLow": 20,
+   "VcHigh": 25,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V35G8540",
+   "VDI": "35",
+   "Grd": "8540",
+   "VcStart": 28,
+   "VcLow": 25,
+   "VcHigh": 30,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V36G8540",
+   "VDI": "36",
+   "Grd": "8540",
+   "VcStart": 78,
+   "VcLow": 70,
+   "VcHigh": 85,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V37G8540",
+   "VDI": "37",
+   "Grd": "8540",
+   "VcStart": 25,
+   "VcLow": 20,
+   "VcHigh": 30,
+   "Condition": "Wet",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8540",
+   "VDI": "14*",
+   "Grd": "8540",
+   "VcStart": 153,
+   "VcLow": 125,
+   "VcHigh": 180,
+   "Condition": "Dry",
+   "Time": 60
+ },
+ {
+   "Key": "V14*G8540",
+   "VDI": "14*",
+   "Grd": "8540",
+   "VcStart": 118,
+   "VcLow": 95,
+   "VcHigh": 140,
+   "Condition": "Wet",
+   "Time": 60
+ }
+]

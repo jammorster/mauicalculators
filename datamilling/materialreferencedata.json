@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "VDI": ["1"],
+    "VdiString": "1",
+    "IsoGroup": "P",
+    "Wnr": "1.0402",
+    "BS": "050A20",
+    "EN": "2C",
+    "DIN": "C22",
+    "ANFOR": "CC20",
+    "UNI": "C20; C21",
+    "UNE": "F.112",
+    "JIS": "",
+    "SS": "1450",
+    "SAE": "1020; G10200"
+  },
+  {
+    "Id": 2,
+    "VDI": ["1"],
+    "VdiString": "1",
+    "IsoGroup": "P",
+    "Wnr": "1.0715",
+    "BS": "230M07",
+    "EN": "",
+    "DIN": "9SMn28",
+    "ANFOR": "S250",
+    "UNI": "CF9SMn28",
+    "UNE": "11SMn28",
+    "JIS": "SUM22",
+    "SS": "1912",
+    "SAE": "1213; G12130"
+  },
+  {
+    "Id": 3,
+    "VDI": ["1"],
+    "VdiString": "1",
+    "IsoGroup": "P",
+    "Wnr": "1.0722",
+    "BS": "",
+    "EN": "",
+    "DIN": "10SPb20",
+    "ANFOR": "10PbF2",
+    "UNI": "CF10SPb20",
+    "UNE": "10SPb20",
+    "JIS": "",
+    "SS": "",
+    "SAE": "11L08"
+  },
+  {
+    "Id": 4,
+    "VDI": ["1"],
+    "VdiString": "1",
+    "IsoGroup": "P",
+    "Wnr": "1.0736",
+    "BS": "240M07",
+    "EN": "1B",
+    "DIN": "9SMn36",
+    "ANFOR": "S300",
+    "UNI": "CF9SMn36",
+    "UNE": "12SMN35",
+    "JIS": "",
+    "SS": "",
+    "SAE": "1215; G12150"
+  },
+ 
+  {
+    "Id": 44,
+    "VDI": [
+      "6",
+      "9"
+    ],
+    "VdiString": "6;9",
+    "IsoGroup": "P",
+    "Wnr": "1.2542",
+    "BS": "BS1",
+    "EN": "",
+    "DIN": "45WCrV7",
+    "ANFOR": "",
+    "UNI": "45WCrV8KU",
+    "UNE": "",
+    "JIS": "",
+    "SS": "2710",
+    "SAE": "S1; T41901"
+  }
+]

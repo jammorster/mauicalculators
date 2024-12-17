@@ -1,0 +1,242 @@
+[
+  {
+    "ProductGroup": "Multi90Mill",
+    "Sort": 10,
+    "ImageCutter": "multi90mill.png",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1129810-25",
+      "1129810-31",
+      "1129826-25",
+      "1129826-31",
+      "1129852-25",
+      "1129852-31",
+      "1129853-25",
+      "1129853-31"
+    ],
+    "Description1": "Available diameters 16-125mm",
+    "Description2": "Inserts: AMOT11T3 / AOMT1505",
+    "ToolType": "TOOL1",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "UniMill",
+    "Sort": 20,
+    "ImageCutter": "unimill.png",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1129157-25",
+      "1129157-31",
+      "1129163-25",
+      "1129163-31"
+    ],
+    "Description1": "Available diameters 12-160mm",
+    "Description2": "Inserts: APKT1003 / APKT1604",
+    "ToolType": "TOOL1",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "Millerator",
+    "Sort": 30,
+    "ImageCutter": "millerator.png",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1129925-25",
+      "1129925-31",
+      "1129943-25",
+      "1129943-31"
+    ],
+    "Description1": "Available diameters 63-160mm",
+    "Description2": "Inserts: TDMT1504 / TDMT1906",
+    "ToolType": "TOOL1",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "Multi4Mill",
+    "Sort": 40,
+    "ImageCutter": "multi4mill.png",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1129514-25",
+      "1129514-31",
+      "1129516-25",
+      "1129522-25",
+      "1129522-31"
+    ],
+    "Description1": "Available diameters 16-160mm",
+    "Description2": "Inserts: SOMT0703 / SOMT12T3",
+    "ToolType": "TOOL1",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "MillaTron",
+    "Sort": 50,
+    "ImageCutter": "",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1800162-25",
+      "1800162-31",
+      "1800168-25",
+      "1800168-31"
+    ],
+    "Description1": "Available diameters 20-160mm",
+    "Description2": "Inserts: ANMX1004 / ANMX1508",
+    "ToolType": "TOOL1",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "Millix",
+    "Sort": 60,
+    "ImageCutter": "millix.png",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1800042-25",
+      "1800042-31",
+      "1800062-25",
+      "1800062-31",
+      "1800063-32"
+    ],
+    "Description1": "Available diameters 20-160mm",
+    "Description2": "Inserts: XNMX0403 / XNMX0806",
+    "ToolType": "TOOL1",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "TeraMill-88",
+    "Sort": 70,
+    "ImageCutter": "",
+    "Kr": "90",
+    "AssociatedInserts": [
+      "1800146-25",
+      "1800146-31"
+    ],
+    "Description1": "Available diameters 40-160mm",
+    "Description2": "Inserts: SNMX1205",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "90˚str. edge cutter with radius"
+  },
+  {
+    "ProductGroup": "TetraMill",
+    "Sort": 80,
+    "ImageCutter": "",
+    "Kr": "45",
+    "AssociatedInserts": [
+      "1129542-25",
+      "1129542-31"
+    ],
+    "Description1": "Available diameters 50-160mm",
+    "Description2": "Inserts: SEMT1204",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "Straight edge cutter"
+  },
+  {
+    "ProductGroup": "TeraMill-45",
+    "Sort": 90,
+    "ImageCutter": "",
+    "Kr": "45",
+    "AssociatedInserts": [
+      "1800126-25",
+      "1800126-31"
+    ],
+    "Description1": "Available diameters 50-200mm",
+    "Description2": "Inserts: SNMX1205ANSN",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "Straight edge cutter"
+  },
+  {
+    "ProductGroup": "ShrapMill",
+    "Sort": 110,
+    "ImageCutter": "shrapmill.png",
+    "Kr": "45",
+    "AssociatedInserts": [
+      "1129966-25",
+      "1129966-31",
+      "1129961-32",
+      "1129962-25",
+      "1129962-31",
+      "1129963-29"
+    ],
+    "Description1": "Available diameters 40-160mm",
+    "Description2": "Inserts: NNMU1004 / NNMU2007",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "Straight edge cutter"
+  },
+  {
+    "ProductGroup": "EdgeMill",
+    "Sort": 120,
+    "ImageCutter": "edgemill.png",
+    "Kr": "45",
+    "AssociatedInserts": [
+      "1196111-25",
+      "1196111-31",
+      "1196113-25",
+      "1196113-31",
+      "1196117-25",
+      "1196117-31"
+    ],
+    "Description1": "Available diameters 10-32mm",
+    "Description2": "Inserts: SPMT0502 / SPMT0603 / SPMT0903",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "Straight edge cutter"
+  },
+  {
+    "ProductGroup": "NitroMill",
+    "Sort": 130,
+    "ImageCutter": "nitromill.png",
+    "Kr": "10",
+    "AssociatedInserts": [
+      "1129913-30",
+      "1129917-30"
+    ],
+    "Description1": "Available diameters 25mm-125mm",
+    "Description2": "Inserts: XDMT09T3 / XDMT1405",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "Straight edge cutter"
+  },
+  {
+    "ProductGroup": "TeraMill-15",
+    "Sort": 100,
+    "ImageCutter": "",
+    "Kr": "15",
+    "AssociatedInserts": [
+      "1800136-30",
+      "1800136-31"
+    ],
+    "Description1": "Available diameters 50-200mm",
+    "Description2": "Inserts: SNMX1205DNSN",
+    "ToolType": "TOOL2",
+    "ToolTypeDesc": "Straight edge cutter"
+  },
+  {
+    "ProductGroup": "HyperMill",
+    "Sort": 140,
+    "ImageCutter": "hypermill.png",
+    "Kr": "Arc",
+    "AssociatedInserts": [
+      "1800084-30",
+      "1800085-28",
+      "1800085-30",
+      "1800086-31"
+    ],
+    "Description1": "Available diameters 16mm-50mm",
+    "Description2": "Inserts: BNMU0603",
+    "ToolType": "TOOL3",
+    "ToolTypeDesc": "Corner radius cutter"
+  },
+  {
+    "ProductGroup": "ContiMill",
+    "Sort": 150,
+    "ImageCutter": "contimill.png",
+    "Kr": "Rnd",
+    "AssociatedInserts": [
+      "1129391-30",
+      "1129402-30",
+      "1129403-30",
+      "1129405-30"
+    ],
+    "Description1": "Available diameters 16-125mm",
+    "Description2": "Inserts: RDMT0702 / RDMX103 / \nRDMX12T3 / RDMX1604",
+    "ToolType": "TOOL3",
+    "ToolTypeDesc": "Corner radius cutter"
+  }
+]

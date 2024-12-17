@@ -1,0 +1,443 @@
+[
+  {
+    "ItemVdi": "1129391-30VDI38",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.35,
+    "ApStart": 0.18,
+    "ApHigh": 0.7
+  },
+  {
+    "ItemVdi": "1129391-30VDI39",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.35,
+    "ApStart": 0.18,
+    "ApHigh": 0.7
+  },
+  {
+    "ItemVdi": "1129391-30VDI40",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.35,
+    "ApStart": 0.18,
+    "ApHigh": 0.7
+  },
+  {
+    "ItemVdi": "1129402-30VDI38",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.5,
+    "ApStart": 0.5,
+    "ApHigh": 1
+  },
+  {
+    "ItemVdi": "1129402-30VDI39",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.5,
+    "ApStart": 0.5,
+    "ApHigh": 1
+  },
+  {
+    "ItemVdi": "1129402-30VDI40",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.5,
+    "ApStart": 0.5,
+    "ApHigh": 1
+  },
+  {
+    "ItemVdi": "1129403-30VDI38",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.3,
+    "ApStart": 0.6,
+    "ApHigh": 1.2
+  },
+  {
+    "ItemVdi": "1129403-30VDI39",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.3,
+    "ApStart": 0.6,
+    "ApHigh": 1.2
+  },
+  {
+    "ItemVdi": "1129403-30VDI40",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.3,
+    "ApStart": 0.6,
+    "ApHigh": 1.2
+  },
+  {
+    "ItemVdi": "1129405-30VDI38",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.4,
+    "ApStart": 0.8,
+    "ApHigh": 1.6
+  },
+  {
+    "ItemVdi": "1129405-30VDI39",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.4,
+    "ApStart": 0.8,
+    "ApHigh": 1.6
+  },
+  {
+    "ItemVdi": "1129405-30VDI40",
+    "HexLow": null,
+    "HexStart": null,
+    "HexHigh": null,
+    "ApLow": 0.4,
+    "ApStart": 0.8,
+    "ApHigh": 1.6
+  },
+  {
+    "ItemVdi": "1800084-30VDI1",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI2",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI3",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI4",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI5",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI6",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI7",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI8",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI9",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI10",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI11",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI12",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI13",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI14*",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI15",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI16",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI17",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI18",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI19",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI20",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI21",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI22",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI23",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI24",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI25",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI26",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI27",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI28",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI29",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI30",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI31",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI32",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI33",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI34",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI35",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI36",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  },
+  {
+    "ItemVdi": "1800084-30VDI37",
+    "HexLow": 0.07,
+    "HexStart": 0.24,
+    "HexHigh": 0.4,
+    "ApLow": null,
+    "ApStart": null,
+    "ApHigh": null
+  }
+]
