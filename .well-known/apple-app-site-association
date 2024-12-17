@@ -1,0 +1,14 @@
+{
+    "activitycontinuation": {
+        "apps": [ "85HMA3YHJX.com.companyname.myrecipeapp" ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "85HMA3YHJX.com.companyname.myrecipeapp",
+                "paths": [ "*", "/*" ]
+            }
+        ]
+    }
+}
