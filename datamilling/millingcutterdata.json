@@ -2,7 +2,7 @@
   {
     "ProductGroup": "Multi90Mill",
     "Sort": 10,
-    "ImageCutter": "multi90mill.png",
+    "ImageCutter": "https://raw.githubusercontent.com/jammorster/mauicalculators/main/imagesmilling/multi90mill.png",
     "Kr": "90",
     "AssociatedInserts": [
       "1129810-25",
