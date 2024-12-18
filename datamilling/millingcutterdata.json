@@ -4,6 +4,7 @@
     "Sort": 10,
     "ImageCutter": "multi90mill.png",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1129810-25",
       "1129810-31",
@@ -24,6 +25,7 @@
     "Sort": 20,
     "ImageCutter": "unimill.png",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1129157-25",
       "1129157-31",
@@ -40,6 +42,7 @@
     "Sort": 30,
     "ImageCutter": "millerator.png",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1129925-25",
       "1129925-31",
@@ -56,6 +59,7 @@
     "Sort": 40,
     "ImageCutter": "multi4mill.png",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1129514-25",
       "1129514-31",
@@ -73,6 +77,7 @@
     "Sort": 50,
     "ImageCutter": "",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1800162-25",
       "1800162-31",
@@ -89,6 +94,7 @@
     "Sort": 60,
     "ImageCutter": "millix.png",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1800042-25",
       "1800042-31",
@@ -106,6 +112,7 @@
     "Sort": 70,
     "ImageCutter": "",
     "Kr": "90",
+    "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1800146-25",
       "1800146-31"
@@ -120,6 +127,7 @@
     "Sort": 80,
     "ImageCutter": "",
     "Kr": "45",
+    "KrDesc": "Kr 45º",
     "AssociatedInserts": [
       "1129542-25",
       "1129542-31"
@@ -134,6 +142,7 @@
     "Sort": 90,
     "ImageCutter": "",
     "Kr": "45",
+    "KrDesc": "Kr 45º",
     "AssociatedInserts": [
       "1800126-25",
       "1800126-31"
@@ -148,6 +157,7 @@
     "Sort": 110,
     "ImageCutter": "shrapmill.png",
     "Kr": "45",
+    "KrDesc": "Kr 45º",
     "AssociatedInserts": [
       "1129966-25",
       "1129966-31",
@@ -166,6 +176,7 @@
     "Sort": 120,
     "ImageCutter": "edgemill.png",
     "Kr": "45",
+    "KrDesc": "Kr 45º",
     "AssociatedInserts": [
       "1196111-25",
       "1196111-31",
@@ -184,6 +195,7 @@
     "Sort": 130,
     "ImageCutter": "nitromill.png",
     "Kr": "10",
+    "KrDesc": "Kr 10º",
     "AssociatedInserts": [
       "1129913-30",
       "1129917-30"
@@ -198,6 +210,7 @@
     "Sort": 100,
     "ImageCutter": "",
     "Kr": "15",
+    "KrDesc": "Kr 15º",
     "AssociatedInserts": [
       "1800136-30",
       "1800136-31"
@@ -212,6 +225,7 @@
     "Sort": 140,
     "ImageCutter": "hypermill.png",
     "Kr": "Arc",
+    "KrDesc": "Arc",
     "AssociatedInserts": [
       "1800084-30",
       "1800085-28",
@@ -228,6 +242,7 @@
     "Sort": 150,
     "ImageCutter": "contimill.png",
     "Kr": "Rnd",
+    "KrDesc": "Round",
     "AssociatedInserts": [
       "1129391-30",
       "1129402-30",
