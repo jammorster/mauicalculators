@@ -49,9 +49,9 @@
   },
   {
     "Id": 4,
-    "VDI": ["S"],
+    "VDI": ["4"],
     "VdiString": "1",
-    "IsoGroup": "P",
+    "IsoGroup": "N",
     "Wnr": "1.0736",
     "BS": "240M07",
     "EN": "1B",
