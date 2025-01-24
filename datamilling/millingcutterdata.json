@@ -75,7 +75,7 @@
   {
     "ProductGroup": "MillaTron",
     "Sort": 50,
-    "ImageCutter": "",
+    "ImageCutter": "millatron.png",
     "Kr": "90",
     "KrDesc": "Kr 90º",
     "AssociatedInserts": [
@@ -110,7 +110,7 @@
   {
     "ProductGroup": "TeraMill-88",
     "Sort": 70,
-    "ImageCutter": "",
+    "ImageCutter": "teramill88.png",
     "Kr": "90",
     "KrDesc": "Kr 90º",
     "AssociatedInserts": [
@@ -125,7 +125,7 @@
   {
     "ProductGroup": "TetraMill",
     "Sort": 80,
-    "ImageCutter": "",
+    "ImageCutter": "tetramill.png",
     "Kr": "45",
     "KrDesc": "Kr 45º",
     "AssociatedInserts": [
@@ -140,7 +140,7 @@
   {
     "ProductGroup": "TeraMill-45",
     "Sort": 90,
-    "ImageCutter": "",
+    "ImageCutter": "teramill45.png",
     "Kr": "45",
     "KrDesc": "Kr 45º",
     "AssociatedInserts": [
@@ -208,7 +208,7 @@
   {
     "ProductGroup": "TeraMill-15",
     "Sort": 100,
-    "ImageCutter": "",
+    "ImageCutter": "teramill15.png",
     "Kr": "15",
     "KrDesc": "Kr 15º",
     "AssociatedInserts": [
