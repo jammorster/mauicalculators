@@ -800,6 +800,22 @@
     "ApHigh": 11
   },
   {
+    "ItemNumber": "1129516-31",
+    "ItemDescription": "SOMT12T308-M8530",
+    "Sort": "SO12",
+    "Grade": "8530",
+    "ChipBreaker": "M",
+    "CornerRadius": 0.8,
+    "ImageInsert": "",
+    "ImageApplication": "app_pm.png",
+    "HexLow": 0.08,
+    "HexStart": 0.13,
+    "HexHigh": 0.17,
+    "ApLow": 1.2,
+    "ApStart": 2.5,
+    "ApHigh": 11
+  },
+  {
     "ItemNumber": "1129522-25",
     "ItemDescription": "SOMT12T320-R8420",
     "Sort": "SO12",
