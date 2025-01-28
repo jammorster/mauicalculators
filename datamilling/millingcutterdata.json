@@ -29,8 +29,11 @@
     "AssociatedInserts": [
       "1129157-25",
       "1129157-31",
+      "1129155-32",	
       "1129163-25",
-      "1129163-31"
+      "1129163-31",
+      "1129160-32",
+      "1129166-29"
     ],
     "Description1": "Available diameters 12-160mm",
     "Description2": "Inserts: APKT1003 / APKT1604",
@@ -115,7 +118,8 @@
     "KrDesc": "Kr 90º",
     "AssociatedInserts": [
       "1800146-25",
-      "1800146-31"
+      "1800146-31",
+      "1800146-29"
     ],
     "Description1": "Available diameters 40-160mm",
     "Description2": "Inserts: SNMX1205",
@@ -145,7 +149,8 @@
     "KrDesc": "Kr 45º",
     "AssociatedInserts": [
       "1800126-25",
-      "1800126-31"
+      "1800126-31",
+      "1800126-29"
     ],
     "Description1": "Available diameters 50-200mm",
     "Description2": "Inserts: SNMX1205ANSN",
@@ -161,9 +166,9 @@
     "AssociatedInserts": [
       "1129966-25",
       "1129966-31",
-      "1129961-32",
       "1129962-25",
       "1129962-31",
+      "1129961-32",
       "1129963-29"
     ],
     "Description1": "Available diameters 40-160mm",
@@ -212,6 +217,7 @@
     "Kr": "15",
     "KrDesc": "Kr 15º",
     "AssociatedInserts": [
+      "1800136-28",
       "1800136-30",
       "1800136-31"
     ],
@@ -245,6 +251,7 @@
     "KrDesc": "Round",
     "AssociatedInserts": [
       "1129391-30",
+      "1129393-31"
       "1129402-30",
       "1129403-30",
       "1129405-30"
